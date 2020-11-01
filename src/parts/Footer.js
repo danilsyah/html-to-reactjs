@@ -79,7 +79,7 @@ export default function Footer() {
               </ul>
             </nav>
             <div className="footer-copyright">
-              &copy; 2020 Cube, all rights reserved
+              &copy; 2020 Cube, all rights reserved hallo word razil
             </div>
           </div>
         </div>
